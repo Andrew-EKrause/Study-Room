@@ -21,7 +21,7 @@ Detailed description goes here...
 *Instagram:* https://www.instagram.com/aek.krause/ <br/>
 *Facebook:* https://www.facebook.com/andrew.krause.35325
 
-## Collaborated With:
+## Collaborated With
 
 **_@Author: Riley Radle_** <br/>
 Check out my socials! <br/>
@@ -36,7 +36,7 @@ Check out my info! <br/>
 *Other:* Add link...
 
 **_@Author: AuthorName_** <br/>
-Check out my info! <br/>
+Check out my information! <br/>
 *Instagram:* Add link... <br/>
 *LinkedIn:* Add link... <br/>
 *Other:* Add link...
